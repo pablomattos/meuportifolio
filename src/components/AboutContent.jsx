@@ -8,7 +8,7 @@ const AboutContent = () => {
           de Eletrotécnica no Centro Tecnológico Estadual Parobé. Atualmente moro em São 
           Leopoldo na Casa de Estudante <a href="https://www.instagram.com/casaceuni/" target='_blank' >Ceuni</a>        
         </p>
-        <p>Sou estudante do bolsista do curso de Engª de Controle e Automação - 6º semestre -
+        <p>Sou estudante bolsista do curso de Engª de Controle e Automação - 6º semestre -
           na UNISINOS. Tenho experiências profissionais como técnico, onde atuei em diversas áreas:
           Grupos Geradores, elétrica industrial e predial,equipamentos eletrodomésticos, telefonia
           e redes e Sistemas CFTV / alarmes.          
