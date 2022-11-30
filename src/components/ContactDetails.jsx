@@ -10,7 +10,7 @@ const ContactDetails = () => {
             <AiOutlineWhatsApp id='phone-icon'/>
             <div>
                 <h3>Telefone</h3>
-                <p>(51)989017-935</p>
+                <p>(51) 9 8901-7935</p>
             </div>
         </div>
         <div className='info-card'>
